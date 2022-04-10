@@ -1,5 +1,6 @@
-[Papataka Book Club](https://papatakabookclub.github.io/)
-Papataka Book Club is a Virtual Book Club where we discuss about books and participate in fun reading activities.
+**New Website** -->[Papataka Book Club](https://papatakabookclub.github.io/)
+
+- Papataka Book Club is a Virtual Book Club where we discuss about books and participate in fun reading activities.
 
 ## Group Rules
 - Always keep to the purpose of the group, which is books and only books. Don’t share any messages about other topics. strictly no forwards.
