@@ -1,1 +1,1 @@
-## [Papataka Book Club](https://papatakabookclub.github.io/) |
+[Papataka Book Club](https://papatakabookclub.github.io/)
