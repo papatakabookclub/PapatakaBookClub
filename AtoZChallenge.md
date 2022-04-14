@@ -1,5 +1,4 @@
 ---
-title: "Papataka Book Club A to Z Challenge 2022"
 layout: page
 ---
 
