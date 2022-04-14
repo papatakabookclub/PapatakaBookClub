@@ -16,7 +16,7 @@
 - [Post](https://www.instagram.com/p/CbxKwIcBG8G/) | [Picture](images/April.png)
 - 
 ## Papataka Book Club A to Z Challenge 2022
-[A to Z Challenge 2022](PBCA2ZC2022.md)
+[A to Z Challenge 2022](PBCA2ZC.md)
 
 ## Papataka Book Club’s Reading challenge 2022
 
