@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Papataka Book Club A to Z Challenge 2022
 back to Home
 ------------------------------------
