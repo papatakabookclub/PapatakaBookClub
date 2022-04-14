@@ -8,13 +8,13 @@ back to Home
 
 ------------------------------------
 ## Leader Board (last updated on)
-Reader|Points
+Reader | Points
 |:---:|:---:|
 |||
 |||
 |||
 |||
-Reader|Points
+Reader | Points
 :---:|:---:
 |||
 |||
