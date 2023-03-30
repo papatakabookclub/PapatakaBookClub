@@ -5,6 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+minimal: true
 
 # Layout
 
@@ -18,8 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "blog.md", title: "Blog"}
-
-theme: minima
+remote_theme: niklasbuschmann/contrast
 
 plugins:
  - jekyll-feed
