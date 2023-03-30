@@ -81,7 +81,11 @@ Book Recommendations from Club Members.
 
 
 
-
+  # Social links
+social:
+  twitter: soumithh
+  github: soumithhh
+  linkedin: soumithhh
 
 
 
