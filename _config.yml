@@ -1,6 +1,6 @@
 title: "Papataka Book Club"
 author: "Soumith"
-description: "My Socials" 
+description: "Home" 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
