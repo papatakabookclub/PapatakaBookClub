@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "blog.md", title: "Blog"}
 
-
+theme: minima
 
 plugins:
  - jekyll-feed
